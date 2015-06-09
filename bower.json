@@ -1,0 +1,11 @@
+{
+  "name": "GenericCarousel",
+  "version": "0.0.0",
+  "authors": [
+    "Georgina Hughes <angularjshowto@gmail.com>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "angular": "~1.4.0"
+  }
+}

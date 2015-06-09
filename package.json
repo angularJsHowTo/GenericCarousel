@@ -1,0 +1,7 @@
+{
+  "name": "GenericCarousel",
+  "version": "1.0.0",
+  "description": "An AngularJs directive to create a simple carousel out of a UL element",
+  "author": "Georgina Hughes",
+  "license": "MIT"
+}

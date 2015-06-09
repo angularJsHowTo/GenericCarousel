@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body ng-app="carouselApp">
+    <ul carousel>
+        <li ng-class="{active:activeIndex == 0}">Some text for the first item</li>
+        <li ng-class="{active:activeIndex == 1}"><a href="#">A link for the second item</a></li>
+        <li ng-class="{active:activeIndex == 2}">Some more text for the third item</li>
+    </ul>
+
+    <script src="bower_components/angular/angular.min.js"></script>
+    <script src="scripts/app.js"></script>
+</body>
+</html>
